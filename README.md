@@ -25,5 +25,5 @@ Deletes an account by its ID.
 
 ## Video Demo
 
-https://github.com/user-attachments/assets/e5a132f9-ef14-4983-9040-3ece3f50f5fe
+https://github.com/user-attachments/assets/1dd2d385-5e34-42e2-ba16-b622185c62f6
 
